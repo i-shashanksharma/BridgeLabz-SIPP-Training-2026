@@ -1,0 +1,12 @@
+Student Name : Rahul
+Total Marks  : 245
+Average Marks: 81.67
+--------------------------------
+Student Name : Priya
+Total Marks  : 265
+Average Marks: 88.33
+--------------------------------
+Student Name : Aman
+Total Marks  : 215
+Average Marks: 71.67
+--------------------------------

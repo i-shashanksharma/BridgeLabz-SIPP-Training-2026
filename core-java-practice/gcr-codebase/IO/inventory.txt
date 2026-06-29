@@ -1,0 +1,4 @@
+Laptop-10
+Mouse-0
+Keyboard-5
+Printer-0
